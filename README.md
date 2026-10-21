@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/cold-box-main-heat-exchanger-explainer/
 
+Repository: https://github.com/mizcausevic-dev/cold-box-main-heat-exchanger-explainer
+
 ## What this is
 
 An interactive anatomy plate for Cold-Box Main Heat Exchanger. Play, scrub, or jump the five stages. The same frame always draws the same picture.
